@@ -25,7 +25,7 @@
 - The taught of neural network is to work like a human brain
 - Like how a brain consists of billions of neurons, the neural network also consists neurons for computing
 
-![ **Human Neuron vs Perceptron**](LLM%20Foundations%2073163815a02e409d8d14d0894a7d2c8c/Untitled.png)
+![ **Human Neuron vs Perceptron**](/LLM%20Foundations/LLM%20day-1/Untitled.png)
 
  **Human Neuron vs Perceptron**
 
@@ -55,7 +55,7 @@
 
 - Before 2020, every task had it’s own NN architecture but now all is transformers
 
-![**Transformers**](LLM%20Foundations%2073163815a02e409d8d14d0894a7d2c8c/Untitled%201.png)
+![**Transformers**](/LLM%20Foundations/LLM%20day-1/Untitled%201.png)
 
 **Transformers**
 
